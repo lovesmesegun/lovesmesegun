@@ -3,7 +3,7 @@
 A passionate detail-oriented, quick, and self-directed DevOps Engineer from Nigeria with a strong background in DevOps/Cloud technologies and automation. I enjoy building and developing scalable, highly available, secure, self-healing, cost-effective cloud solutions and resilient systems that empower teams to deliver software faster and more efficiently.
 
 ## Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bakre-oluwasegun-38b58716b) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@lovesmesegun) [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lovesmesegun)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bakreoluwasegun) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@lovesmesegun) [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lovesmesegun)
 
 # ⚡ Tech Stack
 
