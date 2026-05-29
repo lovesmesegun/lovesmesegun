@@ -39,8 +39,12 @@ A passionate detail-oriented, quick, and self-directed DevOps Engineer from Nige
 
 
 ### 👨‍💼 About Me
+
 🤝 Open to **New Project / Collaborations**  
-💼 Offering **DevOps Consulting / Mentorship**  
+💼 Offering **DevOps Consulting / Mentorship** 
+
+**E-mail:** lovesmesegun@gmail.com
+
 
 
 <!--
